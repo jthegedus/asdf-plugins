@@ -1,0 +1,15 @@
+name: Generate
+on:
+  schedule:
+    - cron: "0 * * * *" # Hourly
+
+jobs:
+  generate:
+    name: generate
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Generate Plugins List
+        run: |
+          bash ./bin/run.bash ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,92 @@
+full_name,owner_name,repo_name,url,license,build_status,security_policy,last_updated_at
+asdf-community/asdf-direnv,asdf-community,asdf-direnv,https://github.com/asdf-community/asdf-direnv.git,Apache License 2.0,y,x,2020-06-22T15:12:39Z
+asdf-community/asdf-php,asdf-community,asdf-php,https://github.com/asdf-community/asdf-php.git,Apache License 2.0,y,x,2020-06-19T06:13:41Z
+asdf-community/asdf-crystal,asdf-community,asdf-crystal,https://github.com/asdf-community/asdf-crystal.git,Apache License 2.0,y,x,2020-06-25T00:54:12Z
+asdf-community/asdf-deno,asdf-community,asdf-deno,https://github.com/asdf-community/asdf-deno.git,Apache License 2.0,y,x,2020-06-22T14:42:51Z
+Banno/asdf-hashicorp,Banno,asdf-hashicorp,https://github.com/Banno/asdf-hashicorp.git,MIT License,y,x,2020-06-02T18:49:21Z
+emersonsoares/asdf-dotnet-core,emersonsoares,asdf-dotnet-core,https://github.com/emersonsoares/asdf-dotnet-core.git,MIT License,y,x,2020-06-15T22:56:25Z
+twuni/asdf-yarn,twuni,asdf-yarn,https://github.com/twuni/asdf-yarn.git,MIT License,y,x,2020-06-05T21:57:15Z
+asdf-community/asdf-haskell,asdf-community,asdf-haskell,https://github.com/asdf-community/asdf-haskell.git,Other,x,x,2020-06-08T15:24:18Z
+asdf-community/asdf-link,asdf-community,asdf-link,https://github.com/asdf-community/asdf-link.git,Apache License 2.0,y,x,2020-06-10T12:07:52Z
+oae/asdf-flutter,oae,asdf-flutter,https://github.com/oae/asdf-flutter.git,MIT License,y,x,2020-06-24T12:20:43Z
+asdf-community/asdf-ocaml,asdf-community,asdf-ocaml,https://github.com/asdf-community/asdf-ocaml.git,Apache License 2.0,y,x,2020-06-19T06:37:23Z
+asdf-community/asdf-gleam,asdf-community,asdf-gleam,https://github.com/asdf-community/asdf-gleam.git,MIT License,y,x,2020-06-23T09:41:17Z
+asdf-community/asdf-ubuntu,asdf-community,asdf-ubuntu,https://github.com/asdf-community/asdf-ubuntu.git,Apache License 2.0,y,x,2020-06-24T01:51:26Z
+asdf-community/asdf-alpine,asdf-community,asdf-alpine,https://github.com/asdf-community/asdf-alpine.git,Apache License 2.0,y,x,2020-06-07T06:12:07Z
+asdf-community/asdf-elm,asdf-community,asdf-elm,https://github.com/asdf-community/asdf-elm.git,Apache License 2.0,y,x,2020-06-22T15:14:17Z
+PatOConnor43/asdf-dart,PatOConnor43,asdf-dart,https://github.com/PatOConnor43/asdf-dart.git,MIT License,y,x,2020-06-24T14:15:27Z
+crflynn/asdf-poetry,crflynn,asdf-poetry,https://github.com/crflynn/asdf-poetry.git,MIT License,y,x,2020-05-16T05:47:11Z
+pfnet-research/asdf-clusterctl,pfnet-research,asdf-clusterctl,https://github.com/pfnet-research/asdf-clusterctl.git,MIT License,y,x,2020-06-22T13:26:41Z
+asdf-community/asdf-opam,asdf-community,asdf-opam,https://github.com/asdf-community/asdf-opam.git,Apache License 2.0,y,x,2020-06-22T15:27:54Z
+asdf-community/asdf-rust,asdf-community,asdf-rust,https://github.com/asdf-community/asdf-rust.git,Apache License 2.0,y,x,2020-06-22T14:54:45Z
+asdf-community/asdf-racket,asdf-community,asdf-racket,https://github.com/asdf-community/asdf-racket.git,Apache License 2.0,y,x,2020-06-07T06:13:00Z
+jthegedus/asdf-gcloud,jthegedus,asdf-gcloud,https://github.com/jthegedus/asdf-gcloud.git,MIT License,y,x,2020-06-03T06:44:00Z
+apihackers/tox-asdf,apihackers,tox-asdf,https://github.com/apihackers/tox-asdf.git,MIT License,y,x,2020-04-02T21:47:34Z
+excid3/asdf-vars,excid3,asdf-vars,https://github.com/excid3/asdf-vars.git,MIT License,x,x,2019-11-14T10:00:21Z
+virtualstaticvoid/asdf-docker-compose,virtualstaticvoid,asdf-docker-compose,https://github.com/virtualstaticvoid/asdf-docker-compose.git,MIT License,y,x,2020-06-10T07:36:15Z
+asdf-community/asdf-lfe,asdf-community,asdf-lfe,https://github.com/asdf-community/asdf-lfe.git,Other,y,x,2020-06-07T06:08:51Z
+enilsen16/asdf-pony,enilsen16,asdf-pony,https://github.com/enilsen16/asdf-pony.git,,x,x,2018-10-12T06:08:21Z
+everpeace/asdf-docker-slim,everpeace,asdf-docker-slim,https://github.com/everpeace/asdf-docker-slim.git,MIT License,y,x,2020-05-16T06:39:48Z
+Ibotta/asdf-brig,Ibotta,asdf-brig,https://github.com/Ibotta/asdf-brig.git,Apache License 2.0,y,x,2020-05-14T03:18:14Z
+asdf-community/asdf-mlton,asdf-community,asdf-mlton,https://github.com/asdf-community/asdf-mlton.git,Apache License 2.0,y,x,2020-06-22T15:13:14Z
+asdf-community/asdf-aria2,asdf-community,asdf-aria2,https://github.com/asdf-community/asdf-aria2.git,Apache License 2.0,y,x,2020-06-22T14:49:11Z
+asdf-community/asdf-lean,asdf-community,asdf-lean,https://github.com/asdf-community/asdf-lean.git,Apache License 2.0,y,x,2020-06-22T15:17:18Z
+asdf-community/asdf-ninja,asdf-community,asdf-ninja,https://github.com/asdf-community/asdf-ninja.git,Apache License 2.0,y,x,2020-06-22T15:13:57Z
+asdf-community/asdf-ccache,asdf-community,asdf-ccache,https://github.com/asdf-community/asdf-ccache.git,Apache License 2.0,y,x,2020-06-22T15:27:26Z
+asdf-community/asdf-zen,asdf-community,asdf-zen,https://github.com/asdf-community/asdf-zen.git,Apache License 2.0,x,x,2020-06-23T01:18:09Z
+asdf-community/asdf-idris,asdf-community,asdf-idris,https://github.com/asdf-community/asdf-idris.git,Apache License 2.0,y,x,2020-06-07T06:11:03Z
+asdf-community/asdf-clojure,asdf-community,asdf-clojure,https://github.com/asdf-community/asdf-clojure.git,Apache License 2.0,x,x,2020-06-07T06:07:59Z
+LogtalkDotOrg/asdf-logtalk,LogtalkDotOrg,asdf-logtalk,https://github.com/LogtalkDotOrg/asdf-logtalk.git,MIT License,y,x,2018-10-28T14:16:16Z
+luizm/asdf-shfmt,luizm,asdf-shfmt,https://github.com/luizm/asdf-shfmt.git,MIT License,x,x,2020-03-08T18:08:42Z
+asdf-community/asdf-getenvoy,asdf-community,asdf-getenvoy,https://github.com/asdf-community/asdf-getenvoy.git,Other,y,x,2020-06-22T17:05:26Z
+asdf-community/asdf-alp,asdf-community,asdf-alp,https://github.com/asdf-community/asdf-alp.git,Apache License 2.0,y,x,2020-06-22T15:14:28Z
+jthegedus/asdf-firebase,jthegedus,asdf-firebase,https://github.com/jthegedus/asdf-firebase.git,MIT License,y,x,2020-06-03T07:15:35Z
+asdf-community/asdf-esy,asdf-community,asdf-esy,https://github.com/asdf-community/asdf-esy.git,Apache License 2.0,y,x,2020-06-22T14:48:11Z
+asdf-community/asdf-meson,asdf-community,asdf-meson,https://github.com/asdf-community/asdf-meson.git,Apache License 2.0,y,x,2020-06-22T14:48:55Z
+asdf-community/asdf-rlwrap,asdf-community,asdf-rlwrap,https://github.com/asdf-community/asdf-rlwrap.git,Apache License 2.0,y,x,2020-06-22T14:49:25Z
+virtualstaticvoid/asdf-kubebuilder,virtualstaticvoid,asdf-kubebuilder,https://github.com/virtualstaticvoid/asdf-kubebuilder.git,MIT License,y,x,2020-05-16T12:05:15Z
+virtualstaticvoid/asdf-istioctl,virtualstaticvoid,asdf-istioctl,https://github.com/virtualstaticvoid/asdf-istioctl.git,MIT License,y,x,2020-05-16T12:03:31Z
+virtualstaticvoid/asdf-kubectx,virtualstaticvoid,asdf-kubectx,https://github.com/virtualstaticvoid/asdf-kubectx.git,MIT License,y,x,2020-05-16T12:05:52Z
+BeijingPM/asdf-perl,BeijingPM,asdf-perl,https://github.com/BeijingPM/asdf-perl.git,MIT License,x,x,2019-09-19T02:44:42Z
+asdf-community/asdf-dotty,asdf-community,asdf-dotty,https://github.com/asdf-community/asdf-dotty.git,MIT License,x,x,2020-06-07T06:13:07Z
+nirfuchs/asdf-snyk,nirfuchs,asdf-snyk,https://github.com/nirfuchs/asdf-snyk.git,MIT License,y,x,2020-05-16T18:11:48Z
+skyzyx/asdf-github-markdown-toc,skyzyx,asdf-github-markdown-toc,https://github.com/skyzyx/asdf-github-markdown-toc.git,Apache License 2.0,y,x,2020-02-16T05:53:34Z
+asdf-community/asdf-cue,asdf-community,asdf-cue,https://github.com/asdf-community/asdf-cue.git,Apache License 2.0,y,x,2020-06-22T14:48:30Z
+hypnoglow/asdf-golangci-lint,hypnoglow,asdf-golangci-lint,https://github.com/hypnoglow/asdf-golangci-lint.git,MIT License,y,x,2020-02-17T04:43:02Z
+asdf-community/asdf-tridentctl,asdf-community,asdf-tridentctl,https://github.com/asdf-community/asdf-tridentctl.git,Other,y,x,2020-06-22T17:05:12Z
+asdf-community/asdf-neko,asdf-community,asdf-neko,https://github.com/asdf-community/asdf-neko.git,Apache License 2.0,y,x,2020-06-22T15:13:00Z
+virtualstaticvoid/asdf-grv,virtualstaticvoid,asdf-grv,https://github.com/virtualstaticvoid/asdf-grv.git,MIT License,y,x,2020-05-16T12:01:21Z
+virtualstaticvoid/asdf-tilt,virtualstaticvoid,asdf-tilt,https://github.com/virtualstaticvoid/asdf-tilt.git,MIT License,y,x,2020-06-24T08:41:40Z
+virtualstaticvoid/asdf-docker-machine,virtualstaticvoid,asdf-docker-machine,https://github.com/virtualstaticvoid/asdf-docker-machine.git,MIT License,y,x,2020-05-16T11:48:00Z
+virtualstaticvoid/asdf-aws-vault,virtualstaticvoid,asdf-aws-vault,https://github.com/virtualstaticvoid/asdf-aws-vault.git,MIT License,y,x,2020-05-16T11:08:55Z
+virtualstaticvoid/asdf-kustomize,virtualstaticvoid,asdf-kustomize,https://github.com/virtualstaticvoid/asdf-kustomize.git,MIT License,y,x,2020-05-16T12:41:33Z
+virtualstaticvoid/asdf-sonarscanner,virtualstaticvoid,asdf-sonarscanner,https://github.com/virtualstaticvoid/asdf-sonarscanner.git,MIT License,y,x,2020-05-16T15:08:02Z
+virtualstaticvoid/asdf-skaffold,virtualstaticvoid,asdf-skaffold,https://github.com/virtualstaticvoid/asdf-skaffold.git,MIT License,y,x,2020-05-16T12:10:33Z
+virtualstaticvoid/asdf-glooctl,virtualstaticvoid,asdf-glooctl,https://github.com/virtualstaticvoid/asdf-glooctl.git,MIT License,y,x,2020-05-16T12:00:28Z
+RykHawthorn/asdf-tflint,RykHawthorn,asdf-tflint,https://github.com/RykHawthorn/asdf-tflint.git,MIT License,x,x,2018-08-28T15:31:46Z
+virtualstaticvoid/asdf-helm,virtualstaticvoid,asdf-helm,https://github.com/virtualstaticvoid/asdf-helm.git,MIT License,y,x,2020-05-16T12:03:00Z
+elementalvoid/asdf-eksctl,elementalvoid,asdf-eksctl,https://github.com/elementalvoid/asdf-eksctl.git,MIT License,y,x,2020-06-02T15:52:25Z
+johnhamelink/asdf-kubie,johnhamelink,asdf-kubie,https://github.com/johnhamelink/asdf-kubie.git,MIT License,y,x,2020-04-06T10:23:58Z
+elementalvoid/asdf-saml2aws,elementalvoid,asdf-saml2aws,https://github.com/elementalvoid/asdf-saml2aws.git,MIT License,y,x,2020-05-14T16:34:39Z
+virtualstaticvoid/asdf-overmind,virtualstaticvoid,asdf-overmind,https://github.com/virtualstaticvoid/asdf-overmind.git,MIT License,y,x,2020-06-24T16:41:04Z
+skyzyx/asdf-tflint,skyzyx,asdf-tflint,https://github.com/skyzyx/asdf-tflint.git,Apache License 2.0,y,x,2020-01-31T02:41:10Z
+dhofer/asdf-hcloud,dhofer,asdf-hcloud,https://github.com/dhofer/asdf-hcloud.git,MIT License,x,x,2019-08-24T20:01:15Z
+bartoszmajsak/asdf-minishift,bartoszmajsak,asdf-minishift,https://github.com/bartoszmajsak/asdf-minishift.git,MIT License,x,x,2019-01-24T21:39:23Z
+virtualstaticvoid/asdf-devspace,virtualstaticvoid,asdf-devspace,https://github.com/virtualstaticvoid/asdf-devspace.git,MIT License,y,x,2020-05-16T11:21:10Z
+jtakakura/asdf-digdag,jtakakura,asdf-digdag,https://github.com/jtakakura/asdf-digdag.git,MIT License,y,x,2020-03-30T07:04:55Z
+virtualstaticvoid/asdf-k9s,virtualstaticvoid,asdf-k9s,https://github.com/virtualstaticvoid/asdf-k9s.git,MIT License,y,x,2020-05-16T12:04:29Z
+bartoszmajsak/asdf-oc,bartoszmajsak,asdf-oc,https://github.com/bartoszmajsak/asdf-oc.git,MIT License,y,x,2019-08-13T14:15:48Z
+bartoszmajsak/asdf-maistra,bartoszmajsak,asdf-maistra,https://github.com/bartoszmajsak/asdf-maistra.git,MIT License,y,x,2019-01-24T18:45:22Z
+skyzyx/asdf-gon,skyzyx,asdf-gon,https://github.com/skyzyx/asdf-gon.git,Apache License 2.0,x,x,2020-02-03T04:57:00Z
+nlamirault/asdf-popeye,nlamirault,asdf-popeye,https://github.com/nlamirault/asdf-popeye.git,Apache License 2.0,y,x,2020-06-19T16:09:00Z
+virtualstaticvoid/asdf-fly,virtualstaticvoid,asdf-fly,https://github.com/virtualstaticvoid/asdf-fly.git,MIT License,y,x,2020-06-24T16:15:12Z
+elementalvoid/asdf-sopstool,elementalvoid,asdf-sopstool,https://github.com/elementalvoid/asdf-sopstool.git,MIT License,y,x,2020-05-14T16:34:51Z
+skyzyx/asdf-hclq,skyzyx,asdf-hclq,https://github.com/skyzyx/asdf-hclq.git,Apache License 2.0,x,x,2019-09-10T23:11:24Z
+cmur2/asdf-github-release,cmur2,asdf-github-release,https://github.com/cmur2/asdf-github-release.git,MIT License,y,x,2020-03-06T07:45:37Z
+RobLoach/asdf-emsdk,RobLoach,asdf-emsdk,https://github.com/RobLoach/asdf-emsdk.git,Apache License 2.0,y,x,2020-05-24T16:15:59Z
+endorama/asdf-goreleaser,endorama,asdf-goreleaser,https://github.com/endorama/asdf-goreleaser.git,MIT License,y,x,2019-02-08T14:33:12Z
+skyzyx/asdf-jmespath,skyzyx,asdf-jmespath,https://github.com/skyzyx/asdf-jmespath.git,Apache License 2.0,y,x,2020-01-31T00:06:47Z
+skyzyx/asdf-direnv,skyzyx,asdf-direnv,https://github.com/skyzyx/asdf-direnv.git,Apache License 2.0,y,x,2020-01-31T00:39:23Z
+skyzyx/asdf-scenery,skyzyx,asdf-scenery,https://github.com/skyzyx/asdf-scenery.git,Apache License 2.0,y,x,2020-01-31T00:50:53Z
+skyzyx/asdf-conform,skyzyx,asdf-conform,https://github.com/skyzyx/asdf-conform.git,Apache License 2.0,y,x,2020-01-31T00:48:43Z
+sestrella/asdf-stack,sestrella,asdf-stack,https://github.com/sestrella/asdf-stack.git,MIT License,y,x,2020-06-19T11:10:28Z

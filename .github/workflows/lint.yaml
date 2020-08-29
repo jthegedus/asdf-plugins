@@ -1,0 +1,39 @@
+name: Lint
+on:
+  pull_request:
+    paths-ignore:
+      - "**.md"
+  push:
+    paths-ignore:
+      - "**.md"
+  schedule:
+    - cron: "0 0 * * *" # daily at midnight
+
+jobs:
+  shellcheck:
+    name: shellcheck
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Update Shellcheck
+        run: |
+          sudo apt install xz-utils
+          scversion="stable"
+          wget -qO- "https://github.com/koalaman/shellcheck/releases/download/${scversion?}/shellcheck-${scversion?}.linux.x86_64.tar.xz" | tar -xJv
+          sudo cp "shellcheck-${scversion}/shellcheck" /usr/bin/
+          shellcheck --version
+      - name: Shellcheck
+        run: shellcheck -x bin/*
+  shfmt:
+    name: shfmt
+    runs-on: macos-10.15
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install Shell Format
+        run: brew install shfmt
+      - name: List files to check
+        run: shfmt -f .
+      - name: Check Format
+        run: shfmt -d .
