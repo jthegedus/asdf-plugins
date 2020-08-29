@@ -17,7 +17,7 @@ trap 'rm -rf "${tmp_download_dir}"' EXIT
 # topics = asdf-plugin asdf
 # archived = false
 # forks are automatically ignored
-github_api_token="Authorization: token b9792c19f793d2372fdfaf4e5b87f003e6576a0f" #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+github_api_token="Authorization: token INSERT VALID TOKEN HERE"
 github_page_size="30"
 github_checks_header="Accept: application/vnd.github.antiope-preview+json"
 github_repos_header="Accept: application/vnd.github.mercy-preview+json"
